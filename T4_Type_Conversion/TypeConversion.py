@@ -46,3 +46,6 @@ print( bool("df") ) # True
 print( bool('False') )  # True — because any non-empty string is True
 print( bool("") )  # False
 
+print("==========================================")
+# int to char
+print( chr(65) ) # A
